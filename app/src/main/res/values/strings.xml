@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Com_Tam_Ph46626</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_activity_update_info_screen">UpdateInfoScreen</string>
+</resources>
